@@ -3,7 +3,7 @@
     "build": "parcel build index.html --public-url ."
   },
   "dependencies": {
-    "parcel": "^1.10.3",
+    "parcel": "^2.8.2",
     "parcel-plugin-inliner": "^1.0.2"
   },
   "devDependencies": {
